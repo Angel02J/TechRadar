@@ -261,10 +261,20 @@ body {
     left: 50%;
 }
 
-/* Low Impact (dentro, parte inferior) */
 .low-impact {
     top: 80%;
     left: 50%;
+}
+
+.high-cost {
+    top: 50%;
+    left: 10%;
+}
+
+/* Bajo costo  */
+.low-cost {
+    top: 50%;
+    left: 90%;
 }
 
 .add-blip-container {
