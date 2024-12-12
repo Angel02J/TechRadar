@@ -268,13 +268,12 @@ body {
 
 .high-cost {
     top: 50%;
-    left: 10%;
+    left: 90%;
 }
 
-/* Bajo costo  */
 .low-cost {
     top: 50%;
-    left: 90%;
+    left: 10%;
 }
 
 .add-blip-container {
